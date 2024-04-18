@@ -1,3 +1,5 @@
+![CC Graphics 2024_Visualisingtradeflowdata](https://github.com/csae-coders-corner/Visualising-trade-flow-data-over-time-in-R-using-Chord-GIFs/assets/148211163/a6eefd91-c740-4f56-bf9c-7b8ddaf46748)
+
 # Visualising-trade-flow-data-over-time-in-R-using-Chord-GIFs
 
 It's hard to satisfactorily summarise and visualise data in three dimensions. Specifically here we are concerned with flow data over time. That is imagine we have some unit, often a geography or individual, say countries. We are interested in the flows of something (goods, migration, information whatever) between countries and how it has changed over time.
